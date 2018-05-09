@@ -1,0 +1,262 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: SB Core\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-05-07 07:29+0700\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-12-23 16:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: HocWP Team - hocwp.net@gmail.com - www.hocwp.net\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hocwp-plugin-main.php:137 hocwp-plugin-main.php:274
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:138
+msgid "Add New"
+msgstr ""
+
+#: hocwp-plugin-main.php:139 hocwp-plugin-main.php:278
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:140 hocwp-plugin-main.php:275
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:141
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:142 hocwp-plugin-main.php:276
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:143 hocwp-plugin-main.php:282
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:144
+msgid "Not found"
+msgstr ""
+
+#: hocwp-plugin-main.php:145
+msgid "Not found in Trash"
+msgstr ""
+
+#: hocwp-plugin-main.php:146 hocwp-plugin-main.php:281
+#, php-format
+msgid "Parent %s:"
+msgstr ""
+
+#: hocwp-plugin-main.php:147 hocwp-plugin-main.php:280
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:148 hocwp-plugin-main.php:277
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:279
+#, php-format
+msgid "New %s Name"
+msgstr ""
+
+#: hocwp-plugin-main.php:283
+#, php-format
+msgid "Popular %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:284
+#, php-format
+msgid "Separate %s with commas"
+msgstr ""
+
+#: hocwp-plugin-main.php:285
+#, php-format
+msgid "Add or remove %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:286
+#, php-format
+msgid "Choose from the most used %s"
+msgstr ""
+
+#: hocwp-plugin-main.php:287
+msgid "Not Found"
+msgstr ""
+
+#: inc/notify-license.php:12
+msgid "Notify license"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:4
+msgid "Affiliates"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:5
+msgid "Affiliate"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:15
+msgid "Showcases"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:16
+msgid "Showcase"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:26
+msgid "Blog"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:35
+msgid "Home"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:44
+msgid "FAQs"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:45
+msgid "FAQ"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:54
+msgid "Projects"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:55
+msgid "Project"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:64
+msgid "References"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:65
+msgid "Reference"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:75
+msgid "Examples"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:76
+msgid "Example"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:85
+msgid "Guides"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:86
+msgid "Guide"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:95
+msgid "Licenses"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:96
+msgid "License"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:104
+msgid "Showcase Tags"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:105
+msgid "Showcase Tag"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:113
+msgid "Series"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:114
+msgid "Serie"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:122
+msgid "Coupons"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:123 inc/shortcodes.php:121
+msgid "Coupon"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:131
+msgid "Reference Cats"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:132
+msgid "Reference Cat"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:139
+msgid "Project Cats"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:140
+msgid "Project Cat"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:148
+msgid "Home Cats"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:149
+msgid "Home Cat"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:157
+msgid "Blog Cats"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:158
+msgid "Blog Cat"
+msgstr ""
+
+#: inc/shortcodes.php:91
+msgid "Copy and use the coupon below when making payment:"
+msgstr ""
+
+#: inc/shortcodes.php:122
+msgid "Description"
+msgstr ""
+
+#: inc/shortcodes.php:234
+msgctxt "parameter"
+msgid "required"
+msgstr ""
+
+#: inc/shortcodes.php:236
+msgctxt "parameter"
+msgid "optional"
+msgstr ""
+
+#: inc/shortcodes.php:244
+msgctxt "parameter"
+msgid "Default:"
+msgstr ""

@@ -1,0 +1,280 @@
+# Copyright (C) 2016 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: SB Core\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2018-05-08 09:51+0700\n"
+"PO-Revision-Date: 2018-05-08 09:54+0700\n"
+"Last-Translator: \n"
+"Language-Team: HocWP Team - hocwp.net@gmail.com - www.hocwp.net\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: hocwp-plugin-main.php:137 hocwp-plugin-main.php:274
+#, php-format
+msgid "All %s"
+msgstr "Tất cả %s"
+
+#: hocwp-plugin-main.php:138
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: hocwp-plugin-main.php:139 hocwp-plugin-main.php:278
+#, php-format
+msgid "Add New %s"
+msgstr "Thêm %s mới"
+
+#: hocwp-plugin-main.php:140 hocwp-plugin-main.php:275
+#, php-format
+msgid "Edit %s"
+msgstr "Chỉnh sửa %s"
+
+#: hocwp-plugin-main.php:141
+#, php-format
+msgid "New %s"
+msgstr "%s mới"
+
+#: hocwp-plugin-main.php:142 hocwp-plugin-main.php:276
+#, php-format
+msgid "View %s"
+msgstr "Xem %s"
+
+#: hocwp-plugin-main.php:143 hocwp-plugin-main.php:282
+#, php-format
+msgid "Search %s"
+msgstr "Tìm kiếm %s"
+
+#: hocwp-plugin-main.php:144
+msgid "Not found"
+msgstr "Koong tìm thấy"
+
+#: hocwp-plugin-main.php:145
+msgid "Not found in Trash"
+msgstr "Không tìm thấy trong thùng rác"
+
+#: hocwp-plugin-main.php:146 hocwp-plugin-main.php:281
+#, php-format
+msgid "Parent %s:"
+msgstr "%s cha:"
+
+#: hocwp-plugin-main.php:147 hocwp-plugin-main.php:280
+#, php-format
+msgid "Parent %s"
+msgstr "%s cha"
+
+#: hocwp-plugin-main.php:148 hocwp-plugin-main.php:277
+#, php-format
+msgid "Update %s"
+msgstr "Cập nhật %s"
+
+#: hocwp-plugin-main.php:279
+#, php-format
+msgid "New %s Name"
+msgstr "Tên %s mới"
+
+#: hocwp-plugin-main.php:283
+#, php-format
+msgid "Popular %s"
+msgstr "%s phổ biến"
+
+#: hocwp-plugin-main.php:284
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Phân cách %s bởi dấu phẩy"
+
+#: hocwp-plugin-main.php:285
+#, php-format
+msgid "Add or remove %s"
+msgstr "Thêm hoặc xóa %s"
+
+#: hocwp-plugin-main.php:286
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Chọn từ %s được sử dụng nhiều"
+
+#: hocwp-plugin-main.php:287
+msgid "Not Found"
+msgstr "Không tìm thấy"
+
+#: inc/notify-license.php:15
+msgid "Notify license"
+msgstr "Thông báo bản quyền"
+
+#: inc/post-type-and-taxonomy.php:4
+msgid "Affiliates"
+msgstr "Tiếp thị"
+
+#: inc/post-type-and-taxonomy.php:5
+msgid "Affiliate"
+msgstr "Tiếp thị"
+
+#: inc/post-type-and-taxonomy.php:15
+msgid "Showcases"
+msgstr "Trưng bày"
+
+#: inc/post-type-and-taxonomy.php:16
+msgid "Showcase"
+msgstr "Trưng bày"
+
+#: inc/post-type-and-taxonomy.php:26
+msgid "Blog"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:35
+msgid "Home"
+msgstr ""
+
+#: inc/post-type-and-taxonomy.php:44
+msgid "FAQs"
+msgstr "Hỏi đáp"
+
+#: inc/post-type-and-taxonomy.php:45
+msgid "FAQ"
+msgstr "Hỏi đáp"
+
+#: inc/post-type-and-taxonomy.php:54
+msgid "Projects"
+msgstr "Dự án"
+
+#: inc/post-type-and-taxonomy.php:55
+msgid "Project"
+msgstr "Dự án"
+
+#: inc/post-type-and-taxonomy.php:64
+msgid "References"
+msgstr "Tài liệu tham khảo"
+
+#: inc/post-type-and-taxonomy.php:65
+msgid "Reference"
+msgstr "Tài liệu tham khảo"
+
+#: inc/post-type-and-taxonomy.php:75
+msgid "Examples"
+msgstr "Ví dụ"
+
+#: inc/post-type-and-taxonomy.php:76
+msgid "Example"
+msgstr "Ví dụ"
+
+#: inc/post-type-and-taxonomy.php:85
+msgid "Guides"
+msgstr "Hướng dẫn"
+
+#: inc/post-type-and-taxonomy.php:86
+msgid "Guide"
+msgstr "Hướng dẫn"
+
+#: inc/post-type-and-taxonomy.php:95
+msgid "Services"
+msgstr "Dịch vụ"
+
+#: inc/post-type-and-taxonomy.php:96
+msgid "Service"
+msgstr "Dịch vụ"
+
+#: inc/post-type-and-taxonomy.php:105
+msgid "Licenses"
+msgstr "Bản quyền"
+
+#: inc/post-type-and-taxonomy.php:106
+msgid "License"
+msgstr "Bản quyền"
+
+#: inc/post-type-and-taxonomy.php:114
+msgid "Showcase Tags"
+msgstr "Thẻ Showcase"
+
+#: inc/post-type-and-taxonomy.php:115
+msgid "Showcase Tag"
+msgstr "Thẻ Showcase"
+
+#: inc/post-type-and-taxonomy.php:123
+msgid "Series"
+msgstr "Loạt bài viết"
+
+#: inc/post-type-and-taxonomy.php:124
+msgid "Serie"
+msgstr "Loạt bài viết"
+
+#: inc/post-type-and-taxonomy.php:132
+msgid "Coupons"
+msgstr "Mã giảm giá"
+
+#: inc/post-type-and-taxonomy.php:133 inc/shortcodes.php:138
+msgid "Coupon"
+msgstr "Mã giảm giá"
+
+#: inc/post-type-and-taxonomy.php:141
+msgid "Reference Cats"
+msgstr "Chuyên mục Reference"
+
+#: inc/post-type-and-taxonomy.php:142
+msgid "Reference Cat"
+msgstr "Chuyên mục Reference"
+
+#: inc/post-type-and-taxonomy.php:149
+msgid "Project Cats"
+msgstr "Chuyên mục dự án"
+
+#: inc/post-type-and-taxonomy.php:150
+msgid "Project Cat"
+msgstr "Chuyên mục dự án"
+
+#: inc/post-type-and-taxonomy.php:158
+msgid "Home Cats"
+msgstr "Chuyên mục Home"
+
+#: inc/post-type-and-taxonomy.php:159
+msgid "Home Cat"
+msgstr "Chuyên mục Home"
+
+#: inc/post-type-and-taxonomy.php:167
+msgid "Blog Cats"
+msgstr "Chuyên mục Blog"
+
+#: inc/post-type-and-taxonomy.php:168
+msgid "Blog Cat"
+msgstr "Chuyên mục Blog"
+
+#: inc/shortcodes.php:94
+msgid "Shop Now"
+msgstr "Mua ngay"
+
+#: inc/shortcodes.php:103
+msgid "Copy and use the coupon below when making payment:"
+msgstr "Sao chép và sử dụng mã giảm giá bên dưới khi thanh toán:"
+
+#: inc/shortcodes.php:105
+msgid "No coupon code required. Just shop online and save."
+msgstr "Không cần nhập mã giảm giá. Chỉ cần mua trực tuyến và tiết kiệm."
+
+#: inc/shortcodes.php:139
+msgid "Description"
+msgstr "Mô tả"
+
+#: inc/shortcodes.php:251
+msgctxt "parameter"
+msgid "required"
+msgstr "bắt buộc"
+
+#: inc/shortcodes.php:253
+msgctxt "parameter"
+msgid "optional"
+msgstr "tùy chọn"
+
+#: inc/shortcodes.php:261
+msgctxt "parameter"
+msgid "Default:"
+msgstr "Mặc định:"
